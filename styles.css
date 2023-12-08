@@ -4,7 +4,7 @@ body {
     padding: 0;
     background-image: url('images/background.jpg');
     background-size: cover;
-    color: #fff;
+    color: #333; /* Updated text color for better contrast on white background */
 }
 
 nav {
@@ -56,7 +56,7 @@ form {
 .btn {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #555; /* Updated to a darker color for better contrast */
+    background-color: #555;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
